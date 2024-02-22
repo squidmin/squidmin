@@ -12,6 +12,6 @@
 
 - Programming languages: Java, Python, JS/TS, Go, C/C++
 - Frameworks: Spring, Angular, React.js
-- Cloud Technologies: GCP, Docker, Terraform
+- Cloud Technologies: GCP, Docker, Podman, Terraform
 - Databases: BigQuery, Bigtable, PostgreSQL, MySQL
-- Tools: Git, Tekton, GitHub Actions, Concourse CI, Jira, Confluence, OpenAI
+- Tools: Git, Postman, Tekton, GitHub Actions, Concourse CI, Jira, Confluence, OpenAI
