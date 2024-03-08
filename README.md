@@ -12,7 +12,7 @@
 ---
 
 - **Programming languages**: Java, Python, JS/TS, Go, C/C++
-- **Frameworks**: Spring, Angular, React.js
+- **Frameworks / Libraries**: Spring, Angular, React.js
 - **Cloud Technologies**: GCP, Docker, Podman, Terraform
 - **Databases**: BigQuery, Bigtable, PostgreSQL, MySQL
 - **Tools**: Git, Postman, Tekton, GitHub Actions, Concourse CI, Jira, Confluence, OpenAI
