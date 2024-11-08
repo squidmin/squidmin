@@ -1,16 +1,18 @@
-## Hi there 👋
+🖥️ SWE with a specialization in developing microservices and deploying them on Google Cloud Platform (GCP)
 
-<!--
-**squidmin/squidmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Working with a broad range of services across different cloud platforms to design, build, and scale applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud Expertise
+
+- **Compute**: Experience in deploying applications on GCP Compute Engine, Cloud Run, Cloud Functions, & GKE
+- **Data & Analytics**: Proficient in data operations with GCP BigQuery, BigTable, Cloud Storage, Pub/Sub
+
+---
+
+- **Programming languages**: Java, Python, JS/TS, Go, C/C++
+- **Frameworks / Libraries**: Spring, React.js, Angular
+- **Cloud Technologies**: GCP, Docker, Podman, Kubernetes, Terraform
+- **Databases**: BigQuery, BigTable, PostgreSQL, MySQL, OracleSQL
+- **CI/CD**: Tekton, GitHub Actions, Concourse
